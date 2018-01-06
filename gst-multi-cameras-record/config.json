@@ -1,0 +1,16 @@
+{
+    "RecordInfo":
+    {
+        "camera_number":6,
+        "ip":"192.168.198.11",
+        "port":8000,
+        "uri_v4l2":"/dev/video0",
+        "fps":30,
+        "bitrate":4000000,
+        "u_dir":"./",
+        "camera_open":"111111",
+        "group1":"110000",
+        "group2":"001100",
+        "group3":"000011"
+    }
+}
